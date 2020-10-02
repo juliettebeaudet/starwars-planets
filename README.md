@@ -2,7 +2,7 @@
 
 #### About the project
 The StarWars Planets' Search Engine provides the opportunity for StarWars fans to search for and filter planets according to numerous criterias.
-This project was developed as a compulsary Front-End training assignment given by [Trybe](https://www.betrybe.com/) Full-Stack Software Development School.
+This project was developed as a compulsory Front-End training assignment given by [Trybe](https://www.betrybe.com/) Full-Stack Software Development School.
 
 #### Technical questions
 The current project was created twice to use both Redux and Context API (& Hooks).
