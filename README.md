@@ -11,4 +11,4 @@ Here and [there](https://github.com/tryber/sd-05-block16-project-react-redux-sta
 For both, a mocked version of the official SWAPI (Star Wars API) was created, fetched and rendered: [swapi-trybe](https://swapi-trybe.herokuapp.com/documentation).
 
 #### Try it
-You can use yourself the Search Engine by clicking int this project [deploy link!](https://juliettebeaudet.github.io/starwars-planets/)!
+You can use yourself the Search Engine by clicking in this project [deploy link!](https://juliettebeaudet.github.io/starwars-planets/)!
